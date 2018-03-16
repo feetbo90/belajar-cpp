@@ -11,7 +11,7 @@ int main()
   cout<<"maka hasil penjumlahannya "<<bilangan1 <<" + "<<
   bilangan2<< " = "<<hasilTambah<<endl;
   float hasilBagi = (float) bilangan1 / (float) bilangan2;
-  cout<<hasilBagi<<endl;
+  cout<<hasilBagi;
 }
 
 
